@@ -75,9 +75,9 @@ driver.close()
 
 print("I am the onw who is chaning the code")
 
-print("I am the onw who is chaning the code")
-print("I am the onw who is chaning the code")
-print("I am the onw who is chaning the code")
+print("I am Pankaj)
+print("I am Tilly")
+print("I am smruti")
 
 
 # Optional: Add a delay to observe the result before closing the browser
