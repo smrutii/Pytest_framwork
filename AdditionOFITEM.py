@@ -73,6 +73,8 @@ print(success_message.text)
 assert "Success" in success_message.text
 driver.close()
 
+print("I am the onw who is chaning the code")
+
 
 
 # Optional: Add a delay to observe the result before closing the browser
