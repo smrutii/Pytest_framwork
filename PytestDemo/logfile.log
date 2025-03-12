@@ -1,0 +1,19 @@
+2025-02-12 12:08:18,655: INFO :PytestDemo.test_Logging :This is a Info Statement
+2025-02-12 12:08:18,656: WARNING :PytestDemo.test_Logging :This is a warning Statement
+2025-02-12 12:08:18,656: ERROR :PytestDemo.test_Logging :This is an error Statement
+2025-02-12 12:08:18,656: CRITICAL :PytestDemo.test_Logging :Critical issue
+2025-02-12 12:27:35,778: DEBUG :PytestDemo.test_Logging :This is a debug Statement
+2025-02-12 12:27:35,778: INFO :PytestDemo.test_Logging :This is a Info Statement
+2025-02-12 12:27:35,779: WARNING :PytestDemo.test_Logging :This is a warning Statement
+2025-02-12 12:27:35,779: ERROR :PytestDemo.test_Logging :This is an error Statement
+2025-02-12 12:27:35,779: CRITICAL :PytestDemo.test_Logging :Critical issue
+2025-02-12 12:28:02,305: CRITICAL :PytestDemo.test_Logging :Critical issue
+2025-02-12 14:01:08,235: INFO :BaseClass :Akola
+2025-02-12 14:58:51,782: CRITICAL :PytestDemo.test_Logging :Critical issue
+2025-02-12 14:58:51,787: INFO :PytestDemo.BaseClass :Akola
+2025-02-12 15:00:58,526: CRITICAL :PytestDemo.test_Logging :Critical issue
+2025-02-12 15:00:58,531: INFO :PytestDemo.BaseClass :Akola
+2025-02-12 15:37:28,661: INFO :BaseClass :Akola
+2025-02-12 15:44:34,588: CRITICAL :PytestDemo.test_Logging :Critical issue
+2025-02-12 15:44:34,679: INFO :PytestDemo.BaseClass :Akola
+2025-02-12 15:45:14,707: CRITICAL :PytestDemo.test_Logging :Critical issue
